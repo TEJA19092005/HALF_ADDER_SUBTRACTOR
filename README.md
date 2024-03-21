@@ -59,6 +59,9 @@ Borrow = A’B
 
  Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 ```
+Developed by:M THEJESWARAN
+Reg no:212223240168
+
 module HALF_ADDSUB(a,b,sum,carry,D,Bo);
 input a,b;
 output sum,carry,D,Bo;
@@ -71,9 +74,6 @@ not(abar,a);
 xor(D,a,b);
 and(Bo,abar,b);
 endmodule
-
-Developed by:Danica Christa
-RegisterNumber:212223240022
 ```
 
 **RTL Schematic**
