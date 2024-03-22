@@ -82,10 +82,10 @@ endmodule
 ![alt text](<Screenshot 2024-03-19 080053.png>)
 **Output/TIMING Waveform**
 ##Half adder
-![Screenshot (36)](https://github.com/23005672/HALF_ADDER_SUBTRACTOR/assets/138971519/c4ff84e0-e081-4224-acbd-374413d10763)
+![new1](https://github.com/TEJA19092005/HALF_ADDER_SUBTRACTOR/assets/164043042/bef81b8c-f614-4d7e-abc0-213d8d344ee9)
 
 ##half sub
-![Screenshot (37)](https://github.com/23005672/HALF_ADDER_SUBTRACTOR/assets/138971519/bfc83070-f266-4260-aa7d-9a60a2af1167)
+![new2](https://github.com/TEJA19092005/HALF_ADDER_SUBTRACTOR/assets/164043042/a6b1d4ad-b218-4a61-82d4-3fdbc5275edd)
 
 **Result:**
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully
