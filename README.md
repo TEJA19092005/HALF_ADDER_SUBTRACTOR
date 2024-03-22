@@ -81,7 +81,7 @@ endmodule
 **RTL Schematic**
 ![alt text](<Screenshot 2024-03-19 080053.png>)
 **Output/TIMING Waveform**
-##Half head
+##Half adder
 ![Screenshot (36)](https://github.com/23005672/HALF_ADDER_SUBTRACTOR/assets/138971519/c4ff84e0-e081-4224-acbd-374413d10763)
 
 ##half sub
