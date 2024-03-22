@@ -68,6 +68,8 @@ output sum,carry,D,Bo;
 //HALF ADDER
 xor(sum,a,b);
 and(carry,a,b);
+
+
 //HALF SUBTRACTOR
 wire abar;
 not(abar,a);
