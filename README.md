@@ -81,7 +81,11 @@ endmodule
 **RTL Schematic**
 ![alt text](<Screenshot 2024-03-19 080053.png>)
 **Output/TIMING Waveform**
-![Screenshot 2024-03-19 075841](https://github.com/TEJA19092005/HALF_ADDER_SUBTRACTOR/assets/164043042/60a0a45e-6d4e-469b-b7ed-23128cb7ae5a)
+#Half head
+![Screenshot (36)](https://github.com/23005672/HALF_ADDER_SUBTRACTOR/assets/138971519/c4ff84e0-e081-4224-acbd-374413d10763)
+
+##half sub
+
 
 **Result:**
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully
